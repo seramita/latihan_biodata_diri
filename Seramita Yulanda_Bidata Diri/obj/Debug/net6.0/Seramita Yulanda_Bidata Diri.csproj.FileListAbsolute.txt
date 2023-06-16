@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\bin\Debug\net6.0\Seramita Yulanda_Bidata Diri.exe
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\bin\Debug\net6.0\Seramita Yulanda_Bidata Diri.deps.json
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\bin\Debug\net6.0\Seramita Yulanda_Bidata Diri.runtimeconfig.json
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\bin\Debug\net6.0\Seramita Yulanda_Bidata Diri.dll
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\bin\Debug\net6.0\Seramita Yulanda_Bidata Diri.pdb
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.AssemblyInfo.cs
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.dll
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\refint\Seramita Yulanda_Bidata Diri.dll
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.pdb
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\Seramita Yulanda_Bidata Diri.genruntimeconfig.cache
+C:\Users\user\source\repos\Seramita Yulanda_Bidata Diri\Seramita Yulanda_Bidata Diri\obj\Debug\net6.0\ref\Seramita Yulanda_Bidata Diri.dll
